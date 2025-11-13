@@ -1,0 +1,42 @@
+{
+  "modelo": "MOBILENET",
+  "predicciones": [
+    {
+      "indice": 980,
+      "clase": "clase_980",
+      "confianza": 0.23436927795410156,
+      "porcentaje": 23.436927795410156
+    },
+    {
+      "indice": 908,
+      "clase": "clase_908",
+      "confianza": 0.04766089469194412,
+      "porcentaje": 4.766089469194412
+    },
+    {
+      "indice": 977,
+      "clase": "clase_977",
+      "confianza": 0.0471896193921566,
+      "porcentaje": 4.71896193921566
+    },
+    {
+      "indice": 972,
+      "clase": "clase_972",
+      "confianza": 0.034978464245796204,
+      "porcentaje": 3.4978464245796204
+    },
+    {
+      "indice": 34,
+      "clase": "clase_34",
+      "confianza": 0.030797475948929787,
+      "porcentaje": 3.0797475948929787
+    }
+  ],
+  "prediccion_principal": {
+    "indice": 980,
+    "clase": "clase_980",
+    "confianza": 0.23436927795410156,
+    "porcentaje": 23.436927795410156
+  },
+  "tiempo": "2025-11-13 10:50:30"
+}

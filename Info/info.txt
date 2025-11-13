@@ -1,0 +1,31 @@
+Parcial: Visión Artificial con Redes Convolucionales (Python o MATLAB)
+Algunas observaciones: Duración: 2 horas. Modalidad: Práctico en laboratorio
+Lenguajes permitidos: Python o MATLAB. Dataset: Carpeta con imágenes (Descargada
+previamente).
+Objetivo general
+Evaluar la comprensión y aplicación de los principios básicos de la visión artificial mediante el
+uso de redes convolucionales (CNN), desde la carga y preprocesamiento de imágenes hasta la
+predicción e interpretación de resultados, sin necesidad de entrenamiento desde cero.
+Parte I – Exploración y preprocesamiento (20%)
+1. Carga y visualización de imágenes:
+- Cargue las imágenes del dataset.
+- Muéstrelas junto con su nombre de archivo o etiqueta.
+- Describa qué tipo de clasificación o problema podrían representar.
+2. Preprocesamiento:
+ - Redimensione las imágenes a 224×224 píxeles.
+- Normalice los valores de los píxeles al rango [0,1].
+- Visualice una imagen antes y después del preprocesamiento.
+Parte II – Aplicación de CNN preentrenada (20%)
+3. Uso de una red convolucional preentrenada: Utilice una red preentrenada para realizar
+predicción de clases en las imágenes.
+- Python: MobileNetV2, ResNet50, VGG16 o MATLAB: vgg16, mobilenetv2, resnet18.
+4. Interpretación: Muestre el nombre de la clase predicha y el nivel de confianza (si aplica).
+Analice si la predicción corresponde con el contenido real de la imagen.
+Parte III – Análisis con preprocesamiento adicional(20%)
+5. Realizar otro preprocesamiento y repetir el proceso
+Parte IV – Análisis conceptual (20%)
+6. Preguntas teóricas:
+a) ¿Qué papel cumplen los filtros o kernels en una red convolucional?
+b) ¿Por qué es importante normalizar las imágenes antes de ingresarlas a la red?
+c) ¿Qué ventaja tienen los modelos preentrenados frente al entrenamiento desde cero?
+d) Análisis de los puntos con el preprocesamiento inicial y el realizado en el punto III.

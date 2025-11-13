@@ -1,0 +1,18 @@
+# Requisitos adicionales para Redes CNN Preentrenadas
+# Instalar con: pip install -r requirements-cnn.txt
+
+# PyTorch y TorchVision para modelos preentrenados
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Pillow para procesamiento de imágenes PIL
+Pillow>=9.0.0
+
+# Requisitos existentes (verificar que estén instalados)
+opencv-python>=4.8.0
+matplotlib>=3.6.0
+numpy>=1.24.0
+
+# Opcional: CUDA para aceleración GPU (solo si tienes GPU NVIDIA)
+# torch>=2.0.0+cu118 --index-url https://download.pytorch.org/whl/cu118
+# torchvision>=0.15.0+cu118 --index-url https://download.pytorch.org/whl/cu118

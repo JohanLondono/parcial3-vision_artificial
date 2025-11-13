@@ -1,0 +1,42 @@
+{
+  "modelo": "RESNET50",
+  "predicciones": [
+    {
+      "indice": 619,
+      "clase": "clase_619",
+      "confianza": 0.07503070682287216,
+      "porcentaje": 7.503070682287216
+    },
+    {
+      "indice": 750,
+      "clase": "clase_750",
+      "confianza": 0.019344491884112358,
+      "porcentaje": 1.9344491884112358
+    },
+    {
+      "indice": 846,
+      "clase": "clase_846",
+      "confianza": 0.018525416031479836,
+      "porcentaje": 1.8525416031479836
+    },
+    {
+      "indice": 999,
+      "clase": "clase_999",
+      "confianza": 0.017591092735528946,
+      "porcentaje": 1.7591092735528946
+    },
+    {
+      "indice": 892,
+      "clase": "clase_892",
+      "confianza": 0.016723670065402985,
+      "porcentaje": 1.6723670065402985
+    }
+  ],
+  "prediccion_principal": {
+    "indice": 619,
+    "clase": "clase_619",
+    "confianza": 0.07503070682287216,
+    "porcentaje": 7.503070682287216
+  },
+  "tiempo": "2025-11-13 10:50:37"
+}

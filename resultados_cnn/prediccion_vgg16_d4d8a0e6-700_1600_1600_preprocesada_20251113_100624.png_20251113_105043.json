@@ -1,0 +1,42 @@
+{
+  "modelo": "VGG16",
+  "predicciones": [
+    {
+      "indice": 728,
+      "clase": "clase_728",
+      "confianza": 0.037971895188093185,
+      "porcentaje": 3.7971895188093185
+    },
+    {
+      "indice": 980,
+      "clase": "clase_980",
+      "confianza": 0.0364462211728096,
+      "porcentaje": 3.64462211728096
+    },
+    {
+      "indice": 669,
+      "clase": "clase_669",
+      "confianza": 0.034695569425821304,
+      "porcentaje": 3.4695569425821304
+    },
+    {
+      "indice": 751,
+      "clase": "racer",
+      "confianza": 0.03382852301001549,
+      "porcentaje": 3.3828523010015488
+    },
+    {
+      "indice": 978,
+      "clase": "clase_978",
+      "confianza": 0.022117139771580696,
+      "porcentaje": 2.2117139771580696
+    }
+  ],
+  "prediccion_principal": {
+    "indice": 728,
+    "clase": "clase_728",
+    "confianza": 0.037971895188093185,
+    "porcentaje": 3.7971895188093185
+  },
+  "tiempo": "2025-11-13 10:50:41"
+}

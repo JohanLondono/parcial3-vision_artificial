@@ -1,0 +1,24 @@
+# Dependencias para el Parcial de Visión Artificial
+# ================================================
+
+# Procesamiento de imágenes y visión por computador
+opencv-python>=4.8.0
+
+# Computación científica y arrays
+numpy>=1.21.0
+
+# Visualización y gráficos
+matplotlib>=3.5.0
+
+# Para futuros pasos del parcial (CNN preentrenadas)
+tensorflow>=2.10.0
+# Alternativa: torch>=1.12.0
+
+# Análisis de imágenes adicional
+Pillow>=8.3.0
+
+# Jupyter notebooks (opcional para desarrollo)
+jupyter>=1.0.0
+
+# Utilidades adicionales
+tqdm>=4.64.0
